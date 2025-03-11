@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "othello", "othello.vcxproj", "{14068168-F771-4128-9E89-0A7484F0B59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14068168-F771-4128-9E89-0A7484F0B59C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14068168-F771-4128-9E89-0A7484F0B59C}.Debug|Win32.Build.0 = Debug|Win32
+		{14068168-F771-4128-9E89-0A7484F0B59C}.Release|Win32.ActiveCfg = Release|Win32
+		{14068168-F771-4128-9E89-0A7484F0B59C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
